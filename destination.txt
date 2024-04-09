@@ -1,0 +1,1 @@
+Hello this is the Byte Stream Class example
